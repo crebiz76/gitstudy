@@ -24,7 +24,7 @@
   └ 여러 명의 작업자가 동시에 사용 가능하도록 해야 한다. 
   
 ## Git-flow 전략
-
+![git-flow](./gitflow.gif)
 
 ## Git-flow 따라하기 
 
