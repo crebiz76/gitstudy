@@ -1,4 +1,11 @@
 # gitstudy
+## 명령어 모음
+
+[git] .gitignore 변경 내용 반영하기
+1 - //.gitignore 파일 수정
+2 - $git rm -r --cached .  // 현재 폴더에서 cache에 기록된 tracking 중인 파일리스트 삭제
+3 - $git add .
+4 - $git commit -m 'remove ignored file'
 
 ## Git-flow 전략의 필요성
 - 하나의 제품을 만들기 위해 여러 아이템들의 통합 개발이 필요하다. 
